@@ -1,0 +1,27 @@
+.dashxy_js_metadata <- function() {
+deps_metadata <- list(`dashxy` = structure(list(name = "dashxy",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'async-Dashxy.js',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "dashxy",
+all_files = FALSE, async = TRUE), class = "html_dependency"),
+`dashxy` = structure(list(name = "dashxy",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'async-Dashxy.js.map',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "dashxy",
+all_files = FALSE, dynamic = TRUE), class = "html_dependency"),
+`dashxy` = structure(list(name = "dashxy",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'dashxy.min.js',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "dashxy",
+all_files = FALSE), class = "html_dependency"),
+`dashxy` = structure(list(name = "dashxy",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'dashxy.min.js.map',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "dashxy",
+all_files = FALSE, dynamic = TRUE), class = "html_dependency"))
+return(deps_metadata)
+}
